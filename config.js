@@ -139,10 +139,6 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'youtube',
-					link: 'https://www.youtube.com/',
-				},
-				{
 					name: 'youtube music',
 					link: 'https://music.youtube.com/',
 				},
@@ -153,6 +149,10 @@ const CONFIG = {
 				{
 					name: 'chip player js',
 					link: 'https://chiptune.app/',
+				},
+				{
+					name: 'radio garden',
+					link: 'http://radio.garden/',
 				},
 			],
 		},
