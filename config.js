@@ -154,10 +154,6 @@ const CONFIG = {
 					name: 'chip player js',
 					link: 'https://chiptune.app/',
 				},
-				{
-					name: 'radio garden',
-					link: 'http://radio.garden/',
-				},
 			],
 		},
 		{
@@ -179,10 +175,6 @@ const CONFIG = {
 				{
 					name: 'game deals',
 					link: 'https://gg.deals/',
-				},
-				{
-					name: 'radio garden',
-					link: 'http://radio.garden/',
 				},
 			],
 		},
