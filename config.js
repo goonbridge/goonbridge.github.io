@@ -157,20 +157,20 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'joystick',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'steam',
+					link: 'https://store.steampowered.com/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'pcgamingwiki',
+					link: 'https://www.pcgamingwiki.com/wiki/Home',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'game deals',
+					link: 'https://gg.deals/',
 				},
 				{
 					name: 'Slack',
