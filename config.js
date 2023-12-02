@@ -180,6 +180,10 @@ const CONFIG = {
 					name: 'game deals',
 					link: 'https://gg.deals/',
 				},
+				{
+					name: 'radio garden',
+					link: 'http://radio.garden/',
+				},
 			],
 		},
 	],
