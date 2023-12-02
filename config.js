@@ -135,24 +135,28 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'radio',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'youtube',
+					link: 'https://www.youtube.com/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'youtube music',
+					link: 'https://music.youtube.com/',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'plex',
+					link: 'https://app.plex.tv/web/app',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'chip player js',
+					link: 'https://chiptune.app/',
+				},
+				{
+					name: 'radio garden',
+					link: 'http://radio.garden/',
 				},
 			],
 		},
