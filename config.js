@@ -165,6 +165,10 @@ const CONFIG = {
 					link: 'https://store.steampowered.com/',
 				},
 				{
+					name: 'gog',
+					link: 'https://www.gog.com',
+				},
+				{
 					name: 'pcgamingwiki',
 					link: 'https://www.pcgamingwiki.com/wiki/Home',
 				},
