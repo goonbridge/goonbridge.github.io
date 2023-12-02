@@ -172,10 +172,6 @@ const CONFIG = {
 					name: 'game deals',
 					link: 'https://gg.deals/',
 				},
-				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
-				},
 			],
 		},
 	],
