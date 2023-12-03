@@ -53,15 +53,15 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'gmail',
+			icon: 'gmail',
+			link: 'https://mail.google.com/',
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			name: 'calendar',
+			icon: 'calendar',
+			link: 'https://calendar.google.com/calendar/r',
 		},
 		{
 			id: '3',
